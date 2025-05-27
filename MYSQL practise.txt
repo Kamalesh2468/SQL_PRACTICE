@@ -1,0 +1,10 @@
+import java.util.*
+class Main 
+{
+public static void main (String []args)
+{
+String Name="JAMES";
+System.out.print(Name);
+}
+}
+https://github.com/MaX-NeO/Aws_Static_Website_Deploy
